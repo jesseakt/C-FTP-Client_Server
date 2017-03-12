@@ -9,4 +9,4 @@ ftserver port
    
 run ftclient.py on flip with:
 python3 ftclient.py localhost port -l dataport
-or python3 ftclient.py localhost port -g filename dataport
+OR python3 ftclient.py localhost port -g filename dataport
